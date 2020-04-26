@@ -1,5 +1,6 @@
 # RoomVR
 
+Creating a dynamic virtual environment using head-tracking.
 Final project of the Multimodal Systems course I did in 2016.
 
 VR environment and tracking made using a Wii remote.
